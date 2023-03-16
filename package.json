@@ -1,0 +1,22 @@
+{
+  "name": "components-fields-tags",
+  "repository": "https://github.com/elsiosanchez/fields-tags.git",
+  "author": "elsiosanchez <elsiosanches@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "HOST=0.0.0.0 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "@element-plus/nuxt": "^1.0.3",
+    "@nuxt/ui": "^0.3.3",
+    "element-plus": "^2.2.30",
+    "tasksfile": "5.1.1",
+    "@nuxt/content": "^2.4.3",
+    "nuxt": "^3.2.3"
+  }
+}
