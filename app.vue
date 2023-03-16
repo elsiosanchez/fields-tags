@@ -1,5 +1,3 @@
 <template>
-  <FileImage
-    :src="`https://upload.wikimedia.org/wikipedia/commons/b/b1/Adempiere-logo.png`"
-  />
+  <FieldTags :value="'Test'" :round="true" :effect="plain" />
 </template>
